@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZZFrameworks"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "这是一个简便实用的基础库"
 
   s.description  = "这是一个简便实用的基础库,主要用于加快开发效率"
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://github.com/Dean-Z/ZZFrameworks.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/Dean-Z/ZZFrameworks.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
