@@ -26,9 +26,9 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "ZZFrameworks/ZZFrameworks/*.{h,m}"
+  s.public_header_files = 'ZZFrameworks/*.{h}'
   #s.exclude_files = "Classes/Exclude"
 
-  # s.public_header_files = "Classes/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
