@@ -4,8 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "这是一个简便实用的基础库"
 
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "这是一个简便实用的基础库,主要用于加快开发效率"
 
   s.homepage     = "https://github.com/Dean-Z/ZZFrameworks"
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
